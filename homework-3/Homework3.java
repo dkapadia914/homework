@@ -1,5 +1,5 @@
 /*
- * First and Last Names
+ * Dev Kapadia
  */
 
 public class Homework3 {
