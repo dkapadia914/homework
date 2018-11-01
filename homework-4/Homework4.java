@@ -1,5 +1,9 @@
+/*
+* Dev Kapadia
+*/
 public class Homework4 {
 	private String str;
+	int Dev = 0; 
 	private int integer;
 	/* Finish the constructor and create any necessary instance
 	 * variables
