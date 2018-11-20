@@ -19,7 +19,7 @@ public class Homework1 {
 	 * height of h
 	 */
 	public static Rectangle problem2(int w, int h) {
-		Rectangle wrect = new Rectangle(w, h, 0, 0);
+		Rectangle wrect = new Rectangle(0, 0, w, h);
 		return wrect;
 	}
 
